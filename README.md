@@ -219,6 +219,20 @@ splice() -> change original array (add, remove, replace)
             
 
 
+For Each loop in array :-
+ - arr.forEach(callbackFunction)
+ - callbackfunction : it is a function to execute for each element of the array.
+ - A callback is a function passed as an argument as an function.
+
+syntax:-
+- arr.forEach(val) => {
+   console.log(val);
+}
+
+
+map methods :-
+ - creates a new array with the results of some operation. the value its callback returns are used to form new array.
+ - 
 
 
 
